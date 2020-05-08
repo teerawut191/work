@@ -25,7 +25,7 @@ var routers = {
   createProduct:'/createProduct',
   editProduct: '/editProduct/:id',
   profile: '/profile',
-  showproduct: '/showproduct'
+  showproduct: '/showproduct',
 
  
 };
